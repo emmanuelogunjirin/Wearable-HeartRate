@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wear.widget.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey"
+    android:padding="@dimen/box_inset_layout_padding"
+    tools:context=".MainActivity"
+    tools:deviceIds="wear">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/HeartRateMonitor"
+            android:layout_width="230dp"
+            android:layout_height="230dp"
+            android:background="@color/black"
+            android:fontFamily="serif"
+            android:text="@string/click_to_start_heartrate_monitor"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="8sp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="SmallSp" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.wear.widget.BoxInsetLayout>

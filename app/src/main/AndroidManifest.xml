@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.linklab.emmanuelogunjirin.wearable_heartrate">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-feature android:name="android.hardware.type.watch" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.DeviceDefault"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+        <uses-library
+                android:name="com.google.android.wearable"
+                android:required="true" />
+
+        <meta-data
+            android:name="com.google.android.wearable.standalone"
+            android:value="true" />     <!-- Set to true if your app is Standalone, that is, it does not require the handheld app to run.-->
+
+        <service
+            android:name=".HeartRateSensor"
+            android:enabled="true"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            tools:ignore="ExportedService">
+        </service>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!--<category android:name="android.intent.category.HOME" />          &lt;!&ndash; Comment this out to be able to return to the regular home settings for the watch&ndash;&gt;-->
+                <!--<category android:name="android.intent.category.DEFAULT" />       &lt;!&ndash;Comment this out to be able to have the default watch activity be the default for the watch&ndash;&gt;-->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
