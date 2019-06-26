@@ -38,6 +38,7 @@
             android:launchMode="singleInstance"
             tools:ignore="ExportedService">
         </service>
+        <service android:name=".GyroscopeSensor" />
 
         <activity
             android:name=".MainActivity"

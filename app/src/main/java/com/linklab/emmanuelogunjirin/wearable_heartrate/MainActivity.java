@@ -53,6 +53,9 @@ public class MainActivity extends WearableActivity
         vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);       // This is the vibrator instance from the system.
 
         final Intent HRService = new Intent(getBaseContext(), HeartRateSensor.class);        // Creates an intent for calling the Heart Rate Timer service.
+        final Intent AccelService = new Intent(getBaseContext(), AccelerometerSensor.class);        // Creates an intent for calling the Heart Rate Timer service.
+        final Intent GyroService = new Intent(getBaseContext(), GyroscopeSensor.class);        // Creates an intent for calling the Heart Rate Timer service.
+
         BluetoothAdapter bluetooth = BluetoothAdapter.getDefaultAdapter();      // Gets the bluetooth system on the watch
         if (!bluetooth.isEnabled())     // If the bluetooth is not enabled on the watch
         {
@@ -100,7 +103,9 @@ public class MainActivity extends WearableActivity
 
                     HeartRateMonitor.setText("Collecting Heart Rate");     // Sets the text on the screen
 
-                    startService(HRService);     // Starts the Heart Rate service
+                    startService(HRService);     // Starts the service
+                    startService(AccelService);     // Starts the service
+                    startService(GyroService);     // Starts the service
                 }
 
                 else
@@ -132,9 +137,11 @@ public class MainActivity extends WearableActivity
                     animator.setRepeatCount(Animation.INFINITE);        // Lets the animator to run through the colors given forever.
                     animator.start();       // Starts the animation
 
-                    HeartRateMonitor.setText("Click to Start Localization");      // Sets the text on the text view.
+                    HeartRateMonitor.setText("Click to Start Heart Rate");      // Sets the text on the text view.
 
-                    stopService(HRService);      // Stops the Heart Rate service
+                    stopService(HRService);      // Stops the service
+                    stopService(AccelService);      // Stops the service
+                    stopService(GyroService);      // Stops the service
                 }
             }
         };
