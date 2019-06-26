@@ -17,14 +17,20 @@ class SystemInformation     // Class that acquires the current time from the sys
 
     private String DeviceID = Preference.DeviceID;       // Gets the Device ID from preferences
     private String HeartRate = Preference.Heart_Rate;       // Gets the HeartRate file from preferences
+    private String Accelerometer = Preference.Accelerometer;       // Gets the Accelerometer file from preferences
+    private String Gyroscope = Preference.Gyroscope;       // Gets the Gyroscope file from preferences
 
     /* File path for Adding Headers to Individual File Name */
     public String Heart_Rate_Path = Preference.Subdirectory_HeartRate + "/" + DeviceID + "_" + HeartRate;      // This is the HeartRate File path
+    public String Accelerometer_Path = Preference.Subdirectory_Accelerometer + "/" + DeviceID + "_" + Preference.Accelerometer + "_" + getDateStamp() + ".csv";     // This is the Accelerometer File path
+    public String Gyrosope_Path = Preference.Subdirectory_Gyroscope + "/" + DeviceID + "_" + Preference.Gyroscope + "_" + getDateStamp() + ".csv";     // This is the Gyrosope File path
 
     /* Subdirectories to be made by the system */
     List <String> Subdirectories = new ArrayList<>(Arrays.asList        // Creates a list of the subdirectories to be created.
             (
-                    Preference.Subdirectory_HeartRate      // This is where the HeartRate is kept
+                    Preference.Subdirectory_HeartRate,      // This is where the HeartRate is kept
+                    Preference.Subdirectory_Accelerometer,        // This is where the accelerometer data is kept
+                    Preference.Subdirectory_Gyroscope        // This is where the Gyroscope data is kept
             )
     );
 
