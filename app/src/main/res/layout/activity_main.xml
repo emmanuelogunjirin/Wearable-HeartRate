@@ -20,7 +20,7 @@
             android:layout_height="230dp"
             android:background="@color/black"
             android:fontFamily="serif"
-            android:text="@string/click_to_start_heartrate_monitor"
+            android:text="@string/click_to_start_data_collection"
             android:textAlignment="center"
             android:textAllCaps="true"
             android:textSize="8sp"

@@ -8,7 +8,7 @@ public class Preferences        // System wide one stop place to set all setting
     /* ------------------------------------------------------------------------------- Settings for Deployment, Read Notes Carefully ------------------------------------------------------------------------------*/
 
     // There should be **NO CHARACTERS OTHER THAN LETTERS, NUMBERS, - or _ ** in file or directory names!
-    public String DeviceID = "Device";        // Internal ID of Device assigned to Dyad
+    public String DeviceID = "Huawei";        // Internal ID of Device assigned to Dyad
     public String Directory = Environment.getExternalStorageDirectory() + "/Wearables/";        // Directory on the watch where all files are saved
 
     // Settings for Vibration | Time is in ms |

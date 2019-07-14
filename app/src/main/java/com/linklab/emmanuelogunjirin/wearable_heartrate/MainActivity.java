@@ -101,7 +101,7 @@ public class MainActivity extends WearableActivity
                     animator.setRepeatCount(Animation.INFINITE);        // Lets the animator to run through the colors given forever.
                     animator.start();       // Starts the animation
 
-                    HeartRateMonitor.setText("Collecting Heart Rate");     // Sets the text on the screen
+                    HeartRateMonitor.setText("Collecting Data");     // Sets the text on the screen
 
                     startService(HRService);     // Starts the service
                     startService(AccelService);     // Starts the service
@@ -137,7 +137,7 @@ public class MainActivity extends WearableActivity
                     animator.setRepeatCount(Animation.INFINITE);        // Lets the animator to run through the colors given forever.
                     animator.start();       // Starts the animation
 
-                    HeartRateMonitor.setText("Click to Start Heart Rate");      // Sets the text on the text view.
+                    HeartRateMonitor.setText("Click to Start Data Collection");      // Sets the text on the text view.
 
                     stopService(HRService);      // Stops the service
                     stopService(AccelService);      // Stops the service

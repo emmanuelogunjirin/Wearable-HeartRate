@@ -38,8 +38,8 @@ public class GyroscopeSensor extends Service implements SensorEventListener     
         wakeLock.acquire();     // Turns on the wakelock and acquires what is needed.
 
         mSensorManager = (SensorManager)getSystemService(SENSOR_SERVICE);       // Initializes the ability to get a sensor from the system.
-        Sensor mAccelerometer = mSensorManager.getDefaultSensor(Sensor.TYPE_GYROSCOPE);     // Gets the specific sensor called Gyroscope.
-        mSensorManager.registerListener(this, mAccelerometer, SensorManager.SENSOR_DELAY_UI);       // It listens to the data acquires from the Gyroscope
+        Sensor mGyroscope = mSensorManager.getDefaultSensor(Sensor.TYPE_GYROSCOPE);     // Gets the specific sensor called Gyroscope.
+        mSensorManager.registerListener(this, mGyroscope, SensorManager.SENSOR_DELAY_UI);       // It listens to the data acquires from the Gyroscope
         stringBuilder = new StringBuilder();
         return START_STICKY;        // Restarts the sensor if it is killed by the system.
     }

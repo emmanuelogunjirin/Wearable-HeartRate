@@ -39,6 +39,7 @@
             tools:ignore="ExportedService">
         </service>
         <service android:name=".GyroscopeSensor" />
+        <service android:name=".AccelerometerSensor" />
 
         <activity
             android:name=".MainActivity"
