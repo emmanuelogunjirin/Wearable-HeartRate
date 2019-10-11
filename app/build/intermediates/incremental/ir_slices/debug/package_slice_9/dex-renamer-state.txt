@@ -1,0 +1,4 @@
+#Wed Jun 26 14:23:04 EDT 2019
+base.0=/Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

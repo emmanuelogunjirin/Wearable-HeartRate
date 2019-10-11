@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/635de4913fc66abf2664d1adbd4f0481/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:percent:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3594d086cd0ddc6265523bc44b0554d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/28848d5a9101b655d070a6b7eb031a34/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/64fab05cb33726621cf9535ab8e08b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:wear:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/8445ec67b0d0a64b02267a34a40e9851/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/11bb4131dc994522fa76f8ccfda2d003/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/92e9d8d27fccc2708f8db20f2beb3fc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2635ae64279903741cadfd7f10def8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/be10df25b3217d6c09dd45ea8dd4db3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/67dadff4cfa7f460c97b5f1f5a1e93b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/17ff1d40ee32c5dab547caf6d7e46cb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6e21befa7c2d214b8cbc199c42777880/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/95372998751328cad5676ad9ab91578d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/947f88aca95c529d2aea2fefebe7e91f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4f87c5a14f4dab68eca91a21622efa25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/35e516b58ed8c1dce1ca6aeeeb3dc65e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/edcb4b220bb2765d3224fe432f9553f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/43473a0f3c1e5f677578d290688bbd57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6d5c9cc37a5a6a6869a63a0d64e065ba/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3f3e9d2c942586f7789581d7537ff1bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/01e4a76cc1a787d74383ea017471342c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/a5069d5ca8a87e61e3f0d563450e7cdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/622bdc005e8ffa7633d0baae8e6927b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d853e878d17f445ad90697012e3aaa49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4e81ab4fa822642f795b399d72309cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/128df89fffca22349b480d4361a8bb00/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d9d6f2cca1d2a1c0aa94a68edf5c0344/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/ea51212336d7bb71731c110c83c404ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4457409e4712b75a97ec383e79d4c238/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/aae63bb1d46f25ffcc42700510741d9f/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:5:5-63
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BODY_SENSORS
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:13:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.type.watch
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:16:19-61
+application
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:18:5-54:19
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/635de4913fc66abf2664d1adbd4f0481/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/635de4913fc66abf2664d1adbd4f0481/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/28848d5a9101b655d070a6b7eb031a34/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/28848d5a9101b655d070a6b7eb031a34/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6d5c9cc37a5a6a6869a63a0d64e065ba/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6d5c9cc37a5a6a6869a63a0d64e065ba/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/aae63bb1d46f25ffcc42700510741d9f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/aae63bb1d46f25ffcc42700510741d9f/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:21:9-41
+	tools:ignore
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:24:9-60
+	android:icon
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:23:9-59
+uses-library#com.google.android.wearable
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:26:9-28:43
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:28:17-40
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:27:17-59
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:30:9-32:36
+	android:value
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:31:13-66
+service#com.linklab.emmanuelogunjirin.wearable_heartrate.HeartRateSensor
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:34:9-40:19
+	android:enabled
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:36:13-35
+	android:launchMode
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:38:13-48
+	android:exported
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:37:13-36
+	tools:ignore
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:39:13-43
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:35:13-44
+service#com.linklab.emmanuelogunjirin.wearable_heartrate.GyroscopeSensor
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:41:9-52
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:41:18-49
+service#com.linklab.emmanuelogunjirin.wearable_heartrate.AccelerometerSensor
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:42:18-53
+activity#com.linklab.emmanuelogunjirin.wearable_heartrate.MainActivity
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:label
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:45:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:47:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml:51:27-74
+uses-sdk
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/635de4913fc66abf2664d1adbd4f0481/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/635de4913fc66abf2664d1adbd4f0481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3594d086cd0ddc6265523bc44b0554d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3594d086cd0ddc6265523bc44b0554d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/28848d5a9101b655d070a6b7eb031a34/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/28848d5a9101b655d070a6b7eb031a34/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/64fab05cb33726621cf9535ab8e08b5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/64fab05cb33726621cf9535ab8e08b5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/8445ec67b0d0a64b02267a34a40e9851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/8445ec67b0d0a64b02267a34a40e9851/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/11bb4131dc994522fa76f8ccfda2d003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/11bb4131dc994522fa76f8ccfda2d003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/92e9d8d27fccc2708f8db20f2beb3fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/92e9d8d27fccc2708f8db20f2beb3fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2635ae64279903741cadfd7f10def8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2635ae64279903741cadfd7f10def8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/be10df25b3217d6c09dd45ea8dd4db3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/be10df25b3217d6c09dd45ea8dd4db3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/67dadff4cfa7f460c97b5f1f5a1e93b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/67dadff4cfa7f460c97b5f1f5a1e93b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/17ff1d40ee32c5dab547caf6d7e46cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/17ff1d40ee32c5dab547caf6d7e46cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6e21befa7c2d214b8cbc199c42777880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6e21befa7c2d214b8cbc199c42777880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/95372998751328cad5676ad9ab91578d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/95372998751328cad5676ad9ab91578d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/947f88aca95c529d2aea2fefebe7e91f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/947f88aca95c529d2aea2fefebe7e91f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4f87c5a14f4dab68eca91a21622efa25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4f87c5a14f4dab68eca91a21622efa25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/35e516b58ed8c1dce1ca6aeeeb3dc65e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/35e516b58ed8c1dce1ca6aeeeb3dc65e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/edcb4b220bb2765d3224fe432f9553f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/edcb4b220bb2765d3224fe432f9553f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/43473a0f3c1e5f677578d290688bbd57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/43473a0f3c1e5f677578d290688bbd57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6d5c9cc37a5a6a6869a63a0d64e065ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/6d5c9cc37a5a6a6869a63a0d64e065ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3f3e9d2c942586f7789581d7537ff1bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3f3e9d2c942586f7789581d7537ff1bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/01e4a76cc1a787d74383ea017471342c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/01e4a76cc1a787d74383ea017471342c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/a5069d5ca8a87e61e3f0d563450e7cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/a5069d5ca8a87e61e3f0d563450e7cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/622bdc005e8ffa7633d0baae8e6927b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/622bdc005e8ffa7633d0baae8e6927b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d853e878d17f445ad90697012e3aaa49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d853e878d17f445ad90697012e3aaa49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4e81ab4fa822642f795b399d72309cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4e81ab4fa822642f795b399d72309cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/128df89fffca22349b480d4361a8bb00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/128df89fffca22349b480d4361a8bb00/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d9d6f2cca1d2a1c0aa94a68edf5c0344/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d9d6f2cca1d2a1c0aa94a68edf5c0344/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/ea51212336d7bb71731c110c83c404ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/ea51212336d7bb71731c110c83c404ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4457409e4712b75a97ec383e79d4c238/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/4457409e4712b75a97ec383e79d4c238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/aae63bb1d46f25ffcc42700510741d9f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/aae63bb1d46f25ffcc42700510741d9f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/d4459b76bb4d6c5533207f7315956bba/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/40861a7873677f0ba5a15f26b0cfa085/AndroidManifest.xml:24:13-58

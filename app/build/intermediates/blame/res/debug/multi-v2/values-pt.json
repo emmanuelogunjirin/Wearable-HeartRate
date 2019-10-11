@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/3cc7cfedeac2839fb3f2763ffbc1f8ca/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "/Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/8445ec67b0d0a64b02267a34a40e9851/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,166",
+                        "endColumns": "110,118",
+                        "endOffsets": "161,280"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,267",
+                        "endColumns": "110,118",
+                        "endOffsets": "262,381"
+                    }
+                }
+            ]
+        }
+    ]
+}

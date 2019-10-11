@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/emmanuelogunjirin/Box Sync/University of Virginia/Research/Link Laboratory/Android Studios/Personal Projects/Wearable HeartRate/app/src/main/res/values-round/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "58",
+                        "endOffsets": "70"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "771",
+                        "endColumns": "58",
+                        "endOffsets": "825"
+                    }
+                },
+                {
+                    "source": "/Users/emmanuelogunjirin/.gradle/caches/transforms-2/files-2.1/c2a200cabdb7b50b161c69047d0da784/res/values-round-v23/values.xml",
+                    "from": {
+                        "startLines": "4,5,8,9,10,11,12,13,14,15",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "213,269,472,531,608,689,733,804,877,959",
+                        "endColumns": "55,56,58,76,80,43,70,72,81,75",
+                        "endOffsets": "268,325,530,607,688,732,803,876,958,1034"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,176,239,320,405,453,528,605,691",
+                        "endColumns": "59,60,62,80,84,47,74,76,85,79",
+                        "endOffsets": "110,171,234,315,400,448,523,600,686,766"
+                    }
+                }
+            ]
+        }
+    ]
+}
